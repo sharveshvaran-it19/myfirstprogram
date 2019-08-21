@@ -1,6 +1,7 @@
 <html>
 <head><title>table</title></head>
-<style></style>
+<style>
+
 <body style="background-image:url('https://raw.githubusercontent.com/sumitc91/data/master/askgif/hd_a136dd86-e0b9-45eb-9972-48618a7ab54f_jackie-chan_wm_icon.gif');"> 
 <table border=2 width=="100%" bgcolor="pink">
 <tr><th>s.no</th><th>name</th><th>department</th></tr>
